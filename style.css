@@ -1,0 +1,21 @@
+:root {
+  --theme-bg: rgb(247, 155, 224);
+}
+
+.theme-bg {
+  background-color: rgba(255,212,254,1);
+  background-color: linear-gradient(180deg, rgba(255,212,254,1) 0%, rgba(244,166,255,1) 35%, rgba(255,144,252,1) 100%);
+}
+
+.flower-size {
+  font-size: 24px;
+  color: rgb(255, 117, 117);
+}
+
+.cursive {
+  font-family: 'Dancing Script', cursive;
+}
+
+.words {
+  font-family: 'Padauk', sans-serif;
+}
